@@ -1,4 +1,29 @@
-commit 1a0a1c482a1777542e817dbc6e996c45e7d503e7 (HEAD, origin/master, origin/HEAD, master)
+commit 3c9baf8822ff0da7decc36c2b1ef8a1722da5659 (HEAD, origin/master, origin/HEAD, master)
+Author: jose perez <sinfallas@gmail.com>
+Date:   Sun Nov 22 14:16:46 2015 -0430
+
+    * zenodo
+    * se cambian los locales
+
+commit b3bf2b4c671cb5da914cea75722e1d86591f29a3
+Author: jose perez <sinfallas@gmail.com>
+Date:   Sun Nov 22 14:10:07 2015 -0430
+
+    * travis final
+
+commit 640799fe64043671396d88bcdfe14e931b048f96
+Author: jose perez <sinfallas@gmail.com>
+Date:   Sun Nov 22 14:09:25 2015 -0430
+
+    * travis file
+
+commit 8c557ee410820bc4706b93f7f16c6180a206c1c3
+Author: jose perez <sinfallas@gmail.com>
+Date:   Sun Nov 22 14:04:39 2015 -0430
+
+    * changelog
+
+commit 1a0a1c482a1777542e817dbc6e996c45e7d503e7
 Author: jose perez <sinfallas@gmail.com>
 Date:   Sun Nov 22 14:04:22 2015 -0430
 
