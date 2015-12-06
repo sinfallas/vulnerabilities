@@ -1,11 +1,17 @@
-commit 3c9baf8822ff0da7decc36c2b1ef8a1722da5659 (HEAD, origin/master, origin/HEAD, master)
+commit d40e34ddd24fa9b2e6b3fe50e3025ccc7cda89f1 (HEAD, origin/master, origin/HEAD, master)
+Author: jose perez <sinfallas@gmail.com>
+Date:   Sun Nov 22 14:17:00 2015 -0430
+
+    * changelog
+
+commit 3c9baf8822ff0da7decc36c2b1ef8a1722da5659
 Author: jose perez <sinfallas@gmail.com>
 Date:   Sun Nov 22 14:16:46 2015 -0430
 
     * zenodo
     * se cambian los locales
 
-commit b3bf2b4c671cb5da914cea75722e1d86591f29a3
+commit b3bf2b4c671cb5da914cea75722e1d86591f29a3 (tag: v0.1)
 Author: jose perez <sinfallas@gmail.com>
 Date:   Sun Nov 22 14:10:07 2015 -0430
 
